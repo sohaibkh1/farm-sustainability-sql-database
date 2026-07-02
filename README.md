@@ -1,4 +1,3 @@
-# Data Systems CA
 
 This repository contains a Data Systems project focused on designing and implementing a relational database for farm sustainability data. The project includes SQL table creation, primary and foreign key constraints, normalisation decisions, joins, aggregate queries, and supporting report evidence.
 
